@@ -83,8 +83,8 @@ _(em breve links diretos para os repositórios)_
 ## 📫 Como me encontrar
 
 - 📧 Email: **andssouzza@gmail.com**
-- 💼 LinkedIn: _seu link aqui_
-- 🌐 Portfólio: _seu link aqui_
+- 💼 LinkedIn: [/andressouzza](https://www.linkedin.com/in/andressouzza/)
+- 🌐 Portfólio: [/portfolio](https://portifolioandre.netlify.app/)
 
 ---
 

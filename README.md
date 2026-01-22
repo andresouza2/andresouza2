@@ -14,6 +14,9 @@
   <img align="center" alt="javascript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg">
+  <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mui" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,3 +27,4 @@
   <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg">
   <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+  

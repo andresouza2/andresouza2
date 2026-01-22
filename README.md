@@ -1,15 +1,95 @@
-### Olá me chamo André 👋
+<h1 align="center">👋 Olá, eu sou André Costa de Souza</h1>
+<h3 align="center">Fullstack Developer | React • Next.js • Node.js • TypeScript</h3>
 
-- 😍 Me desenvolvendo como FullStack
-- 💻 Experiência em ReactJS, Typescript, Styled Component, Material UI, NodeJS, Express
-- 😎 Caso precise entrar em contato segue:
-- andssouzza@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andresouza2&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresouza2&layout=compact&theme=tokyonight" height="150" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/andresouza2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresouza2&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresouza2&layout=compact&langs_count=7&theme=merko"/>
-</div>
+---
+
+## 🚀 Sobre mim
+
+Sou **desenvolvedor fullstack**, com forte atuação em **front-end moderno** e **back-end escalável**.  
+Trabalho principalmente com **React, Next.js e TypeScript**, além de desenvolvimento de APIs usando  
+**Node.js, Express e NestJS**.
+
+Tenho experiência com:
+
+- Criação de **SPAs e SSR** com React e Next.js
+- Desenvolvimento de **APIs REST** e autenticação JWT
+- Integração com **bancos de dados SQL e NoSQL**
+- Consumo e design de **APIs**
+- Arquitetura de projetos fullstack
+
+🎯 **Objetivo:** atuar como fullstack sênior, participando de projetos bem arquitetados e produtos de impacto real.
+
+---
+
+## 🧠 Minhas principais stacks
+
+### Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3" />
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-20232A?style=for-the-badge&logo=springboot" />
+</p>
+
+### Bancos de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb" />
+</p>
+
+### DevOps & Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/ESLint-20232A?style=for-the-badge&logo=eslint" />
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+<!-- - 🔹 **Plataforma SaaS** – Next.js, NestJS, Prisma, PostgreSQL  
+- 🔹 **Dashboard Administrativo** – React, TypeScript, Tailwind  
+- 🔹 **API REST** – Node.js, Express, JWT, MongoDB  
+ - 🔹 **Sistema de Pedidos** – Fullstack com autenticação e RBAC -->
+
+_(em breve links diretos para os repositórios)_
+
+---
+
+## 📫 Como me encontrar
+
+- 📧 Email: **andssouzza@gmail.com**
+- 💼 LinkedIn: _seu link aqui_
+- 🌐 Portfólio: _seu link aqui_
+
+---
+
+⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
+
   <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

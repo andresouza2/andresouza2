@@ -22,7 +22,7 @@ Tenho experiência com:
 - Consumo e design de **APIs**
 - Arquitetura de projetos fullstack
 
-🎯 **Objetivo:** atuar como fullstack sênior, participando de projetos bem arquitetados e produtos de impacto real.
+🎯 **Objetivo:** atuar como fullstack pleno, participando de projetos bem arquitetados e produtos de impacto real.
 
 ---
 

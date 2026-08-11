@@ -1,10 +1,10 @@
 <h1 align="center">👋 Olá, eu sou André Costa de Souza</h1>
-<h3 align="center">Fullstack Developer | React • Next.js • Node.js • TypeScript</h3>
+<h3 align="center">Fullstack Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andresouza2&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresouza2&layout=compact&theme=tokyonight" height="150" />
-</p>
+</p> -->
 
 ---
 
